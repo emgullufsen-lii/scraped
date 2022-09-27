@@ -1,0 +1,150 @@
+{
+ "/constitution-conan/introduction": {
+  "govlink": "/browse/introduction/",
+  "head": "Introductory Annotations"
+ },
+ "/constitution-conan/preamble": {
+  "govlink": "/browse/preamble/",
+  "head": "Annotations about the Preamble"
+ },
+ "/constitution-conan/article-1": {
+  "govlink": "/browse/article-1/",
+  "head": "Legislative Branch"
+ },
+ "/constitution-conan/article-2": {
+  "govlink": "/browse/article-2/",
+  "head": "Executive Branch"
+ },
+ "/constitution-conan/article-3": {
+  "govlink": "/browse/article-3/",
+  "head": "Judicial Branch"
+ },
+ "/constitution-conan/article-4": {
+  "govlink": "/browse/article-4/",
+  "head": "Relationships Between the States"
+ },
+ "/constitution-conan/article-5": {
+  "govlink": "/browse/article-5/",
+  "head": "Amending the Constitution"
+ },
+ "/constitution-conan/article-6": {
+  "govlink": "/browse/article-6/",
+  "head": "The Supreme Law"
+ },
+ "/constitution-conan/article-7": {
+  "govlink": "/browse/article-7/",
+  "head": "Ratification Clause"
+ },
+ "/constitution-conan/amendment-1": {
+  "govlink": "/browse/amendment-1/",
+  "head": "Fundamental Freedoms"
+ },
+ "/constitution-conan/amendment-2": {
+  "govlink": "/browse/amendment-2/",
+  "head": "Right to Bear Arms"
+ },
+ "/constitution-conan/amendment-3": {
+  "govlink": "/browse/amendment-3/",
+  "head": "Quartering Soldiers"
+ },
+ "/constitution-conan/amendment-4": {
+  "govlink": "/browse/amendment-4/",
+  "head": "Search and Seizure"
+ },
+ "/constitution-conan/amendment-5": {
+  "govlink": "/browse/amendment-5/",
+  "head": "Rights of Persons"
+ },
+ "/constitution-conan/amendment-6": {
+  "govlink": "/browse/amendment-6/",
+  "head": "Rights in Criminal Prosecutions"
+ },
+ "/constitution-conan/amendment-7": {
+  "govlink": "/browse/amendment-7/",
+  "head": "Civil Trial Rights"
+ },
+ "/constitution-conan/amendment-8": {
+  "govlink": "/browse/amendment-8/",
+  "head": "Excessive Bail and Cruel and Unusual Punishment"
+ },
+ "/constitution-conan/amendment-9": {
+  "govlink": "/browse/amendment-9/",
+  "head": "Unenumerated Rights"
+ },
+ "/constitution-conan/amendment-10": {
+  "govlink": "/browse/amendment-10/",
+  "head": "Rights Reserved to the States and the People"
+ },
+ "/constitution-conan/amendment-11": {
+  "govlink": "/browse/amendment-11/",
+  "head": "Suits Against States"
+ },
+ "/constitution-conan/amendment-12": {
+  "govlink": "/browse/amendment-12/",
+  "head": "Election of President"
+ },
+ "/constitution-conan/amendment-13": {
+  "govlink": "/browse/amendment-13/",
+  "head": "Abolition of Slavery"
+ },
+ "/constitution-conan/amendment-14": {
+  "govlink": "/browse/amendment-14/",
+  "head": "Citizenship, Equal Protection, and Other Rights of Citizens"
+ },
+ "/constitution-conan/amendment-15": {
+  "govlink": "/browse/amendment-15/",
+  "head": "Right of Citizens to Vote"
+ },
+ "/constitution-conan/amendment-16": {
+  "govlink": "/browse/amendment-16/",
+  "head": "Income Tax"
+ },
+ "/constitution-conan/amendment-17": {
+  "govlink": "/browse/amendment-17/",
+  "head": "Popular Election of Senators"
+ },
+ "/constitution-conan/amendment-18": {
+  "govlink": "/browse/amendment-18/",
+  "head": "Prohibition of Liquor"
+ },
+ "/constitution-conan/amendment-19": {
+  "govlink": "/browse/amendment-19/",
+  "head": "Women's Suffrage Rights"
+ },
+ "/constitution-conan/amendment-20": {
+  "govlink": "/browse/amendment-20/",
+  "head": "Presidential Term and Succession"
+ },
+ "/constitution-conan/amendment-21": {
+  "govlink": "/browse/amendment-21/",
+  "head": "Repeal of Prohibition"
+ },
+ "/constitution-conan/amendment-22": {
+  "govlink": "/browse/amendment-22/",
+  "head": "Presidential Term Limits"
+ },
+ "/constitution-conan/amendment-23": {
+  "govlink": "/browse/amendment-23/",
+  "head": "Presidential Electors for the District of Columbia"
+ },
+ "/constitution-conan/amendment-24": {
+  "govlink": "/browse/amendment-24/",
+  "head": "Abolition of Poll Tax"
+ },
+ "/constitution-conan/amendment-25": {
+  "govlink": "/browse/amendment-25/",
+  "head": "Presidential Vacancy and Disability"
+ },
+ "/constitution-conan/amendment-26": {
+  "govlink": "/browse/amendment-26/",
+  "head": "Reduction of Voting Age"
+ },
+ "/constitution-conan/amendment-27": {
+  "govlink": "/browse/amendment-27/",
+  "head": "Congressional Compensation"
+ },
+ "/constitution-conan/appendix": {
+  "govlink": "/browse/appendix/",
+  "head": "Supplemental Annotations"
+ }
+}
